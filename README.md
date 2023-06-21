@@ -1,7 +1,7 @@
 # project_spring_boot_restAPI
 
 
-**To run a Spring Boot application, you can follow these steps:****
+**To run a Spring Boot application, you can follow these steps:**
 
 1. Ensure you have Java Development Kit (JDK) installed: Spring Boot requires Java to be installed on your machine. You can download the JDK from the Oracle website or use a package manager like Homebrew (for macOS) or Chocolatey (for Windows) to install it.
 
